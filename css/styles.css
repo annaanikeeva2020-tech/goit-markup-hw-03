@@ -23,6 +23,7 @@ body {
 }
 
 .page-header {
+  border-bottom: 1px solid #e7e9fc;
   padding-left: 156px;   
   padding-right: 156px;
   display: flex;
@@ -60,6 +61,7 @@ ul,ol {
 a {
     text-decoration: none;
 }
+
 .contacts-list {
     padding-right: 156px;
     display: flex;
@@ -95,6 +97,7 @@ a {
     flex-direction: column;
     align-items: center;
 }
+
 .features ul {
   display: flex;
   gap: 24px; 
