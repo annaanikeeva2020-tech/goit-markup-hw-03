@@ -81,7 +81,6 @@ a {
     white-space: nowrap;
 }
 .contacts-list {
-    
     display: flex;
     gap: 40px;
     padding: 0;
@@ -186,6 +185,7 @@ a {
 }
 
 .team-card {
+    width: 264px;
     background-color: #fff;
     border-radius: 0 0 4px 4px;
 }
@@ -307,6 +307,7 @@ p {
 }
 
 .contacts-link {
+    display: block;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
